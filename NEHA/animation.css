@@ -1,0 +1,54 @@
+@keyframes section_1{
+    0%{
+        left: 0px;
+    }
+    100%{
+        left: 100%;
+    }
+}
+#section1{
+    position: relative;
+    animation: section_1 30s infinite;
+   -webkit-animation: section_1 30s infinite;
+   -moz-animation: section_1 30s infinite;
+   -o-animation: section_1 30s infinite;
+   -ms-animation:section_1 30s infinite;
+}
+@keyframes flashingbaner{
+    0%,100% {
+        opacity: 0;
+        height: 100px;
+        width: 100px;
+    }
+    25% {
+        opacity:0.5;
+        height: 300px;
+        width: 300px;
+    }
+    50% {
+        opacity: 1;
+        height: 400px;
+        width: 400px;
+    }
+
+}
+#img3{
+    animation: flashingbaner 3s ;
+    -webkit-animation: flashingbaner 3s;
+    -moz-animation: flashingbaner 3s;
+    -o-animation: flashingbaner 3s;
+    -ms-animation: flashingbaner 3s;
+/* iteration counts for  image*/
+    -webkit-animation-iteration-count: 7;
+    -moz-animation-iteration-count: 7;
+    -o-animation-iteration-count: 7;
+    -ms-animation-iteration-count: 7;
+    animation-iteration-count: 7;*/
+}
+.offer{
+    transform: rotate3d(40,45,90,180deg);
+    -webkit-transform: rotate3d(40,45,90,180deg);
+    -moz-transform: rotate3d(40,45,90,180deg);
+    -o-transform: rotate3d(40,45,90,180deg);
+    -ms-transform: rotate3d(40,45,90,180deg);
+}
