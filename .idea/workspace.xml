@@ -2,43 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="76525c9c-ed61-4ac4-a16f-700bd6b004fb" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/NehaUICodes.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/markdown-navigator/profiles_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/todoMeanApp-master/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/todoMeanApp-master/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/todoMeanApp-master/app.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/todoMeanApp-master/bin/www" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/todoMeanApp-master/config.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/todoMeanApp-master/model/mongoModel.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/todoMeanApp-master/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/todoMeanApp-master/public/common/javascripts/APIService.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/todoMeanApp-master/public/common/javascripts/URLFactory.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/todoMeanApp-master/public/common/javascripts/UserFactory.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/todoMeanApp-master/public/common/javascripts/app.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/todoMeanApp-master/public/common/stylesheets/style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/todoMeanApp-master/public/createUsers/CreateUsersController.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/todoMeanApp-master/public/createUsers/createUsers.tpl.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/todoMeanApp-master/public/login/LoginController.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/todoMeanApp-master/public/login/login.tpl.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/todoMeanApp-master/public/main/main.tpl.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/todoMeanApp-master/public/main/mainController.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/todoMeanApp-master/public/task/add.tpl.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/todoMeanApp-master/public/task/addTaskController.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/todoMeanApp-master/public/task/view.tpl.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/todoMeanApp-master/public/task/viewTaskController.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/todoMeanApp-master/routes/api.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/todoMeanApp-master/routes/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/todoMeanApp-master/services/listService.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/todoMeanApp-master/services/userService.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/todoMeanApp-master/views/error.hbs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/todoMeanApp-master/views/index.hbs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/todoMeanApp-master/views/layout.hbs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="NehaUICodes.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -266,6 +230,9 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="LAST_COMMIT_MESSAGE" value="" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
